@@ -12,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GroupsTest.java">
@@ -23,10 +24,19 @@
                 <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
               </folding>
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/groups/GroupsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Groups.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,17 +48,27 @@
                 <element signature="e#462#463#0" expanded="true" />
                 <element signature="e#493#494#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/groups/Groups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>package</find>
     </findStrings>
   </component>
+=======
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -57,9 +77,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/groups/GroupsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/groups/Groups.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/GroupsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Groups.java" />
         <option value="$PROJECT_DIR$/src/test/java/GroupsTest.java" />
+=======
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
       </list>
     </option>
   </component>
@@ -73,6 +96,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,6 +129,17 @@
               <item name="groups" type="b2602c69:ProjectViewProjectNode" />
               <item name="groups" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groups" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -111,11 +149,23 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="groups" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+<<<<<<< HEAD
       <pane id="Scope" />
     </panes>
   </component>
@@ -133,6 +183,14 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544536844833" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -145,6 +203,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.GroupsTest">
     <configuration name="All in groups" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="groups" />
@@ -154,6 +213,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="RunManager">
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
     <configuration name="GroupsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="groups" />
       <option name="PACKAGE_NAME" value="groups" />
@@ -162,6 +224,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="GroupsTest.CheckCorrectNumberOfPeopleInGroups" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="groups" />
       <option name="PACKAGE_NAME" value="" />
@@ -177,6 +240,11 @@
         <item itemvalue="JUnit.GroupsTest" />
         <item itemvalue="JUnit.All in groups" />
         <item itemvalue="JUnit.GroupsTest.CheckCorrectNumberOfPeopleInGroups" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GroupsTest" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +262,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="GroupsTest - 2018.12.12 at 14h 24m 20s.xml">
       <configuration name="GroupsTest" configurationId="JUnit" />
     </history-entry>
@@ -222,6 +291,9 @@
       <configuration name="GroupsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="GroupsTest - 2018.12.12 at 15h 23m 14s.xml">
+=======
+    <history-entry file="GroupsTest - 2018.12.11 at 13h 58m 51s.xml">
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
       <configuration name="GroupsTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -229,6 +301,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.26037195" />
       <window_info id="Image Layers" order="2" />
@@ -239,10 +312,27 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+=======
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -316,6 +406,64 @@
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
           </folding>
+=======
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/groups/Groups.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/groups/GroupsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/groups/Groups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+>>>>>>> ab827bfca960de812134edd1e72b6a6c69ecf1a5
         </state>
       </provider>
     </entry>
