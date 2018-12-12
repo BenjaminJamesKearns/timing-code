@@ -8,8 +8,12 @@ public class Groups {
   public Integer groupRemainder;
 
   public String create(int num) {
+    long startTime = System.nanoTime();
     groupArray = new Integer[num][];
     fillGroups(num);
+    long endTime = System.nanoTime();
+    long timeTaken = endTime - startTime;
+    System.out.println("It took " + timeTaken + " nanoseconds!");
     return num + " groups created";
   }
 
